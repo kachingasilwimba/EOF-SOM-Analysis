@@ -1,5 +1,5 @@
 # EOF-SOM-Analysis
-This repository contains the implementation of a method that combines Empirical Orthogonal Functions (EOF) and Self-Organizing Maps (SOM) to analyze the SPMIP data. The SPMIP (Spatial Pattern and Intensity Measures) dataset is widely used in the field of earthquake engineering to understand the spatial patterns of ground motion intensity.
+This repository contains the implementation of a method that combines Empirical Orthogonal Functions (EOF) and Self-Organizing Maps (SOM) to analyze the Soil Parameter Model Intercomparison Project data simulated by the climate land model. 
 
 ## Getting Started
 

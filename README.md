@@ -12,5 +12,5 @@ To use this repository, follow these steps:
 
 ## References
 
-[https://github.com/kachingasilwimba/Python-Packages-Tutorials/tree/main]
+[Python-Packages-Tutorials](https://github.com/kachingasilwimba/Python-Packages-Tutorials/tree/main)
 

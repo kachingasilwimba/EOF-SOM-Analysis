@@ -1,5 +1,5 @@
 # EOF-SOM-Analysis
-This repository contains the implementation of a method that combines Empirical Orthogonal Functions (EOF) and Self-Organizing Maps (SOM) to analyze the Soil Parameter Model Intercomparison Project data simulated by the climate land model. 
+This repository contains the implementation of a method that combines Empirical Orthogonal Functions (EOF) and Self-Organizing Maps (SOM) to analyze the SPMIP (Soil Parameter Model Intercomparison Project) data simulated by the climate land model. 
 
 ## Getting Started
 
